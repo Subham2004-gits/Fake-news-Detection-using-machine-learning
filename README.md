@@ -74,6 +74,7 @@ Naive Bayes
 | Others              | Lower than TF-IDF        |           |        |          |
 
 🧪 Validation Results
+
 🔹 TF-IDF (Validation Set)
 | Model               | Accuracy   | Precision  | Recall     | F1 Score   |
 | ------------------- | ---------- | ---------- | ---------- | ---------- |
@@ -83,6 +84,7 @@ Naive Bayes
 | Naive Bayes         | 93.10%     | 92.84%     | 92.64%     | 92.74%     |
 
 🏆 Best Model
+
 ✅ Random Forest + TF-IDF
 
 Why?
@@ -145,5 +147,6 @@ Use:
 Explainable AI (SHAP / LIME)
 
 🏁 Conclusion
+
 This project proves that classical ML + TF-IDF can outperform many deep models for structured text classification.
 The Random Forest + TF-IDF model achieves near-perfect classification performance and is production-ready.
